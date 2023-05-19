@@ -55,7 +55,7 @@ function Tasks() {
   );
 }
 
-export default function App() {
+export function App() {
   return (
     <>
       <Tasks />
